@@ -1,0 +1,6 @@
+console.log("StyleWise app loaded!");
+
+// Example interactive element
+document.querySelector('h1').addEventListener('click', () => {
+    alert('Welcome to StyleWise!');
+});
